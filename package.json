@@ -1,0 +1,36 @@
+{
+  "name": "stringcombo",
+  "version": "0.0.1",
+  "description": "A javascript libary to generate combinations of css selectors.  Used for dynamic css generation.",
+  "main": "stringcombo.js",
+  "scripts": {
+    "test": "mocha test",
+    "ex":   "node examples/main-example.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ALMaclaine/selectorcombinator.git"
+  },
+  "keywords": [
+    "CSS",
+    "Selector",
+    "Combo",
+    "Combinations",
+    "Combine",
+    "Combinatorics",
+    "Dynamic",
+    "Generate",
+    "Template"
+  ],
+  "author": "Alessandro Maclaine",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ALMaclaine/selectorcombinator/issues"
+  },
+  "homepage": "https://github.com/ALMaclaine/selectorcombinator#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^3.5.3",
+    "regreplacer": "0.0.1"
+  }
+}
