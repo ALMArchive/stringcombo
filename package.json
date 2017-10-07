@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ALMaclaine/selectorcombinator.git"
+    "url": "git+https://github.com/ALMaclaine/stringcombo.git"
   },
   "keywords": [
     "CSS",
@@ -25,9 +25,9 @@
   "author": "Alessandro Maclaine",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ALMaclaine/selectorcombinator/issues"
+    "url": "https://github.com/ALMaclaine/stringcombo/issues"
   },
-  "homepage": "https://github.com/ALMaclaine/selectorcombinator#readme",
+  "homepage": "https://github.com/ALMaclaine/stringcombo#readme",
   "devDependencies": {
     "chai": "^4.1.2",
     "mocha": "^3.5.3",
