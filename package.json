@@ -1,6 +1,6 @@
 {
   "name": "stringcombo",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A javascript libary to generate combinations of css selectors.  Used for dynamic css generation.",
   "main": "stringcombo.js",
   "scripts": {
