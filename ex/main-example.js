@@ -1,4 +1,4 @@
-const StringCombo = require("../stringcombo.js");
+import StringCombo from "../stringcombo.js";
 
 // Construction
 const strCom = new StringCombo();
@@ -45,7 +45,7 @@ const obj2 = {
    joiner: ",\n"
 };
 
-str = strCom.comb(obj2); // #id1.class1 ~ p:active,
+let str = strCom.comb(obj2); // #id1.class1 ~ p:active,
 console.log(str);        // #id1.class2 ~ p:active,
                          // #id1.class3 ~ p:active,
                          // #id1.class4 ~ p:active

@@ -1,4 +1,4 @@
-const StringCombo = require("../stringcombo.js");
+import StringCombo from "../stringcombo.js";
 
 // Construction
 const strCom = new StringCombo();
