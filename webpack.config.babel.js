@@ -4,9 +4,10 @@ import path from "path";
 export default {
   entry: {
     "stringcombo": "./stringcombo.js",
-    "stringcombo.min": "./stringcombo.js"
   },
   output: {
+    library: 'stringcombo',
+    libraryTarget: 'umd',
     path: path.resolve(__dirname, "dist"),
     filename: "[name].js"
   },
