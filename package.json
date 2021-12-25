@@ -1,6 +1,6 @@
 {
   "name": "stringcombo",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "A javascript libary to generate combinations of css selectors.  Used for dynamic css generation.",
   "main": "dist/stringcombo.js",
   "files": [
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/almtechhub/stringcombo.git"
+    "url": "git+https://github.com/ALMArchive/stringcombo.git"
   },
   "keywords": [
     "CSS",
@@ -31,9 +31,9 @@
   "author": "Alessandro Maclaine",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/almtechhub/stringcombo/issues"
+    "url": "https://github.com/ALMArchive/stringcombo/issues"
   },
-  "homepage": "https://github.com/almtechhub/stringcombo#readme",
+  "homepage": "https://github.com/ALMArchive/stringcombo#readme",
   "devDependencies": {
     "@babel/core": "^7.0.0-beta.40",
     "@babel/polyfill": "^7.0.0-beta.40",
